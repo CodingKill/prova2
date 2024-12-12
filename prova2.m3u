@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,dazn 1
+https://www.kool.to/play/363506221/index.m3u8
+#EXTINF:-1,Rai Radio 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063&output=16
+#EXTINF:-1,Rai Radio 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841&output=16
